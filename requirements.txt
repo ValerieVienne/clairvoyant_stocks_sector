@@ -1,0 +1,7 @@
+streamlit
+openai
+yfinance
+akshare
+wikipedia-api
+pandas
+numpy

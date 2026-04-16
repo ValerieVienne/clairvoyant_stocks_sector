@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+env/
+bin/
+lib/
+.venv-1/
+venv-1/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets (NEVER publish these)
+.streamlit/secrets.toml
+
+*.png
